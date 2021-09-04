@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Architects Daughter', cursive;
+}
+.games{
+    background-color: rgb(238, 215, 198);
+   height: 700px;
+    width: 1300px;
+   border: 5px solid rgb(229, 145, 145);
+    margin:  auto;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+}
+.pro{
+border:5px solid rgb(16, 21, 87);
+background-color: rgb(225, 226, 154);
+border-radius:10px ;
+
+margin: 10px 2px ;
+padding: 12px 3px;
+}
+
+p{
+font: 1em sans-serif;
+
+}
+h1{
+
+margin: 5px auto;
+width: 320px
+
+}
+
+#ler{
+float: left;;
+width:50%;
+}
+
+#ent{
+clear: both;
+width: 100%;
+
+}
+#ber{
+float:right;
+width:49%;
+}
+
